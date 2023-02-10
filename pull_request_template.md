@@ -18,9 +18,11 @@ For example,
 * MINOR:
 * CHORE: 
 
-## To Do
-<!-- Use this to track the work you've done, or need to do in this PR -->
-- [ ] 
+```[tasklist]
+## Tasks
+- [ ] https://github.com/octo-org/octo-repo/issues/45
+- [ ] Draft issue title
+```
 
 ## Outstanding Issues
 <!-- If this is a draft PR, there might be items you're looking for feedback on or need to still address. List them here, and ask for help if you need it! -->
